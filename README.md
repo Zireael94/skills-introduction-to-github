@@ -1,3 +1,3 @@
 # skills-introduction-to-github
 Exercise: Introduction to GitHub
-test
+进行一个test
